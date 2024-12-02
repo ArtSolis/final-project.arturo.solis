@@ -7,14 +7,7 @@ export function Intro() {
         Binary.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Bla bla bla, numbers numbers{" "}
-        <a
-          href="https://nextjs.org/"
-          className="underline hover:text-blue-600 duration-200 transition-colors"
-        >
-          Next.js
-        </a>{" "}
-        and {CMS_NAME}.
+        The base of computers as we know them {" "}
       </h4>
     </section>
   );
