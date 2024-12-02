@@ -7,7 +7,7 @@ export function Intro() {
         Binary.
       </h1>
       <h4 className="text-center md:text-left text-lg mt-5 md:pl-8">
-        Banary numbersis the base of computers as we know them{" "}
+        Banary numbers is the base of computers as we know them{" "}
         <a
           href="https://nextjs.org/"
           className="underline hover:text-blue-600 duration-200 transition-colors"
