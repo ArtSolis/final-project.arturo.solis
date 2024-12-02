@@ -4,7 +4,7 @@ import Image from "next/image";
 
 type Props = {
   title: string;
-  src: Users\sola2\Desktop\UTRGV\CSCI-1101\final_project_1101\media\binary.webp;
+  src: C/Users/sola2/Desktop/UTRGV/CSCI-1101/final_project_1101/media/binary.webp;
   slug?: string;
 };
 
