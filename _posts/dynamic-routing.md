@@ -1,13 +1,13 @@
 ---
 title: "What are Binary numbers?"
 excerpt: "Binary Number System uses two digits, 0 and 1, and is the foundation for all modern computing. The word binary is derived from the word “bi” which means two. But what makes it so essential, and how does it work?"
-coverImage: "C:\Users\sola2\Desktop\UTRGV\CSCI-1101\final_project_1101\media\binary.webp"
+coverImage: "C:\Users\sola2\Desktop\UTRGV\CSCI-1101\final_project_1101\media\istockphoto-1412170749-640x640.jpg"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "C:\Users\sola2\Desktop\UTRGV\CSCI-1101\final_project_1101\media\binary.webp"
+  url: "C:\Users\sola2\Desktop\UTRGV\CSCI-1101\final_project_1101\media\istockphoto-1412170749-640x640.jpg"
 ---
 
 The Binary Number System uses two digits, 0 and 1, and is the foundation for all modern computing. The word binary is derived from the word “bi” which means two. But what makes it so essential, and how does it work?
