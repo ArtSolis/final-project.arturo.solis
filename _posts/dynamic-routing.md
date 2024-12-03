@@ -1,18 +1,19 @@
 ---
-title: "Dynamic Routing and Static Generation"
-excerpt: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus."
-coverImage: "/assets/blog/dynamic-routing/cover.jpg"
+title: "What are Binary numbers?"
+excerpt: "Binary Number System uses two digits, 0 and 1, and is the foundation for all modern computing. The word binary is derived from the word “bi” which means two. But what makes it so essential, and how does it work?"
+coverImage: "C:\Users\sola2\Desktop\UTRGV\CSCI-1101\final_project_1101\media\binary.webp"
 date: "2020-03-16T05:35:07.322Z"
 author:
   name: JJ Kasper
   picture: "/assets/blog/authors/jj.jpeg"
 ogImage:
-  url: "/assets/blog/dynamic-routing/cover.jpg"
+  url: "C:\Users\sola2\Desktop\UTRGV\CSCI-1101\final_project_1101\media\binary.webp"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilities morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
+The Binary Number System uses two digits, 0 and 1, and is the foundation for all modern computing. The word binary is derived from the word “bi” which means two. But what makes it so essential, and how does it work?
+The base-2 numeral system, also known as the binary system, is a way of representing numbers using only two digits: 0 and 1. Each digit is called a "bit," short for "binary digit." This system is widely used in modern computers and electronic devices because it is simple to implement with logic gates in digital circuits. The binary system is preferred over other methods of communication because it is easy to work with and more resistant to errors in physical implementations.
 
-Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidunt. Gravida in fermentum et sollicitudin ac orci phasellus egestas tellus. Volutpat consequat mauris nunc congue nisi vitae. Id aliquet risus feugiat in ante metus dictum at tempor. Sed blandit libero volutpat sed cras. Sed odio morbi quis commodo odio aenean sed adipiscing. Velit euismod in pellentesque massa placerat. Mi bibendum neque egestas congue quisque egestas diam in arcu. Nisi lacus sed viverra tellus in. Nibh cras pulvinar mattis nunc sed. Luctus accumsan tortor posuere ac ut consequat semper viverra. Fringilla ut morbi tincidunt augue interdum velit euismod.
+The binary numeric system is essentially the only language computers can understand, because of the association/comparation with electricity. 0 is associated with Low voltage, and 1 is associated with High voltage, or even more simple 0 = Off, 1 = Onn. The binary system is also better avoiding errors, compared to systems with more digits, binary's simplicity ensures greater reliability in noisy or unstable environments.
 
 ## Lorem Ipsum
 
