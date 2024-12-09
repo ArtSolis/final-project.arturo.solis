@@ -1,6 +1,8 @@
 ---
 title: "Step by step, convertion from decimal to binary"
-excerpt: "Setps to convert between decimal and binary notation."
+excerpt: "Step by step to convert between binary and decimal notation."
+coverImage: "/assets/blog/preview/cover.jpg"
+date: "2020-03-16T05:35:07.322Z"
 author:
   name: Abrahan First
   picture: "/assets/blog/authors/one.jpeg"
